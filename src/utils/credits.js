@@ -1,1 +1,1 @@
-export const CREDITS = [1, 2, 3];
+export const CREDITS = ["Please Select...",1, 2, 3];
